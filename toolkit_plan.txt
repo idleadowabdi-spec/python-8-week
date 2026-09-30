@@ -1,0 +1,69 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+Student Name: IDLE ADOW ABDI
+Project: PLP Week 8 Final Project
+
+1. TOOLS
+
+Tool 1: Simple Calculator
+The calculator allows the user to add, subtract, multiply, or divide two numbers.
+
+Tool 2: To-Do List
+The to-do list allows the user to add, view, and remove tasks while the program is running.
+
+Tool 3: Number Guessing Game
+The guessing game asks the user to guess a secret number and gives hints until the correct number is guessed.
+
+2. EXACT MENU TEXT
+
+========================================
+PERSONAL MINI-TOOLKIT
+=====================
+
+1. Simple Calculator
+
+2. To-Do List
+
+3. Number Guessing Game
+
+4. Quit
+   ========================================
+
+5. CONCEPTS USED
+
+Simple Calculator:
+
+* Variables
+* input()
+* float()
+* if / elif / else
+* f-strings
+* Functions
+
+To-Do List:
+
+* Lists
+* append()
+* pop()
+* while loop
+* if / elif / else
+* input()
+* f-strings
+
+Number Guessing Game:
+
+* Variables
+* input()
+* int()
+* while loop
+* if / elif / else
+* f-strings
+
+Main Menu:
+
+* while loop
+* if / elif / else
+* Functions
+* User input
+* Friendly output
+* Comments
